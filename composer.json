@@ -1,0 +1,36 @@
+{
+  "name": "ozibus/ozibus-php",
+  "description": "PHP SDK for the Ozibus suite: SMS, transactional and marketing email, WhatsApp, Broadcast, Scheduling, Chat, and wallet/PAYG APIs.",
+  "type": "library",
+  "license": "proprietary",
+  "keywords": [
+    "ozibus",
+    "php-sdk",
+    "api-client",
+    "sms",
+    "email",
+    "marketing-email",
+    "whatsapp",
+    "chat",
+    "scheduling",
+    "broadcast",
+    "payments",
+    "payg"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ozibus\\Sdk\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "ext-json": "*"
+  },
+  "suggest": {
+    "ext-curl": "Recommended HTTP transport; PHP streams are used when cURL is unavailable."
+  },
+  "homepage": "https://ozibus.com.au",
+  "support": {
+    "docs": "https://ozibus.com.au"
+  }
+}

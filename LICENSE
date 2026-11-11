@@ -1,0 +1,15 @@
+Proprietary Software License Notice
+
+Copyright (c) Ozibus. All rights reserved.
+
+This software is provided under proprietary terms. Publication or distribution
+of this package does not, by itself, grant permission to copy, modify,
+redistribute, sublicense, or commercially exploit its source code beyond
+permissions expressly granted by the copyright holder.
+
+Use of the Ozibus service and its API may be subject to separate applicable
+terms. Contact Ozibus for permission or licensing details.
+
+NOTE FOR PACKAGE OWNER: Review and approve this license notice before public
+release. If you intend to permit broad public reuse, choose an appropriate
+open-source license (such as MIT) and update composer.json accordingly.
